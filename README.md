@@ -9,5 +9,5 @@ found (in this YouTube video)[https://youtu.be/WNCb4-n_yew]. The bug is designed
 conceived by Valentino Braitenberg.
 
 All applications explored in this study are implemented in the Python
-package, Brian 2, and can be found at GitHub.com/orbitalhybridization/BasicNeuralModeling. \
+package, Brian 2.
 
