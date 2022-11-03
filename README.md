@@ -5,7 +5,7 @@ This project is a publication-style presentation of the fundamentals of neural m
 exploration of the applications of sensorimotor network models that simulate biologically-
 inspired behavior. Using a combination of Izhikevich neuron models and alpha-type synapse models, I built
 a "bug" that operates in a virtual environment and responds to a food stimulus (An example of this behavior can be
-found (in this YouTube video)[https://youtu.be/WNCb4-n_yew]. The bug is designed after the Braitenberg vehicles first
+found in <a href="https://youtu.be/WNCb4-n_yew">this YouTube video</a>. The bug is designed after the Braitenberg vehicles first
 conceived by Valentino Braitenberg.
 
 All applications explored in this study are implemented in the Python
