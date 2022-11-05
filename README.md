@@ -11,3 +11,4 @@ conceived by Valentino Braitenberg.
 All applications explored in this study are implemented in the Python
 package, Brian 2.
 
+The full report can be found in the PDF titled "Implementing Neural Models in a Virtual Bug."
